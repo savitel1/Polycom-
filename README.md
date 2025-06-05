@@ -1,5 +1,4 @@
-# Polycom-
-polycom ho tro ket noi hoi hop moi luc moi noi de dang
+# Polycom ho tro ket noi hoi hop moi luc moi noi de dang <br>
 Polycom mang đến giải pháp hội nghị hiệu quả với thiết kế gọn nhẹ, dễ lắp đặt và bảo trì.<br>
 Phù hợp với mọi loại hình doanh nghiệp.<br>
 Tham khảo bài viết đầy đủ: https://savitel.com.vn/collections/poly<br>
